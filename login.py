@@ -287,6 +287,6 @@ def login_douban(page, username, password):
 
 
 if __name__ == "__main__":
-    username = "13811176637"
-    password = "466457296"
+    username = ""
+    password = ""
     login_douban(username, password)
